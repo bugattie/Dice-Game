@@ -110,16 +110,3 @@ function init() {
   document.querySelector(".player-0-panel").classList.add("active");
   document.querySelector(".player-1-panel").classList.remove("active");
 }
-
-// minikube
-// nodes
-// alias
-// pods
-// port forwarding
-// labels
-// node selector
-// anotation
-// describing
-// job
-// cron job
-// replica sets
